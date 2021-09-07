@@ -1,0 +1,15 @@
+name: Mok
+age: 40
+address: "dd:sdd"
+active: true
+key:
+  key: value
+  key2: 33
+  key3:
+    k1: 1
+    k2: 2
+jsonObject: { key: 1, key2: 2, key3: 3 }
+array:
+  - item1
+  - item 2
+  - { key: 1 }
